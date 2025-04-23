@@ -33,3 +33,31 @@
 //     console.log(num);
     
 // }
+
+
+//4 Age Group Check
+/*
+let age=22
+if(age<13){
+    console.log("child");
+}else if(age<=19){
+    console.log("teenager");
+}else if(age<=50){
+    console.log("Adult");
+}else{
+    console.log("Senior Citizen");
+    
+}
+*/
+
+
+/*
+//5 give two number and check there last digit same or not
+let x=29
+let y=19
+if(x%10===y%10){
+    console.log("same last digit");
+}else{
+    console.log("different last digit");
+    
+}*/
