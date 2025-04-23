@@ -51,7 +51,7 @@ if(age<13){
 */
 
 
-/*
+
 //5 give two number and check there last digit same or not
 let x=29
 let y=19
@@ -60,4 +60,4 @@ if(x%10===y%10){
 }else{
     console.log("different last digit");
     
-}*/
+}
